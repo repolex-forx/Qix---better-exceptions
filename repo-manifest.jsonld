@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Qix-/better-exceptions/commit/b928ff9e2c933cdd3b27321c766ce68bfa60826c",
       "git:hexsha": "b928ff9e2c933cdd3b27321c766ce68bfa60826c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Qix-/better-exceptions/commit/750463b3f57b172799ec54811d9d958648862177",

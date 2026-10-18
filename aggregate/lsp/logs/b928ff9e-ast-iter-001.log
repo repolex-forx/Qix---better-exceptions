@@ -1,0 +1,7 @@
+[2026-10-18T04:19:30Z] === AST ITERATION 1 START | repo=Qix-/better-exceptions sha=b928ff9e ===
+[2026-10-18T04:19:30Z] [iter=1] PHASE START: ast repo=Qix-/better-exceptions sha=b928ff9e
+[2026-10-18T04:19:30Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T04:19:34Z] [iter=1] AST chunks built count=1 triples=39348
+[2026-10-18T04:19:34Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/b928ff9e2c933cdd3b27321c766ce68bfa60826c/.complete
+[2026-10-18T04:19:34Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-10-18T04:19:34Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
